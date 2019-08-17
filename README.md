@@ -4,7 +4,7 @@ Online course material for data analysis in Python
 
 # Modules
 
-pandas
+pandas<br>
 matplotlib
 numpy 
 string
