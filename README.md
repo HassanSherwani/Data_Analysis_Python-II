@@ -5,8 +5,8 @@ Online course material for data analysis in Python
 # Modules
 
 pandas<br>
-matplotlib
-numpy 
-string
-math
-version_information
+matplotlib<br>
+numpy <br>
+string<br>
+math<br>
+version_information<br>
